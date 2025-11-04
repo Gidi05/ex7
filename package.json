@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Gidi1208.github.io/ex7",
-  "name" : "exp7",
+  "homepage": "https://gidi05.github.io/ex7/",
+  "name": "exp7",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
